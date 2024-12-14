@@ -1,5 +1,7 @@
 # README
 
+- 14/12/2024 >> https://youtu.be/Ldvdovngwhs?si=Ke80p5iJbgA3Jkl6 >> Minuto: 34:52
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
